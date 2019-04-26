@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Zaiets42IPZLab04</string>
+    <string name="textView4">Вітаю! Обери предмети, які ти будеш вивчати на четвертому курсі</string>
+    <string name="firstName">Ім\'я</string>
+    <string name="lastName">Прізвище</string>
+    <string name="button">Яку спеціалізацію вибираєш?</string>
+
+    <string name="Course">Що б ти хотів включити в курс QA?</string>
+    <string name="Lection">Лекції</string>
+    <string name="Practic">Практичні</string>
+    <string name="Laboration">Лабораторні</string>
+    <string name="Programmer">Програміст</string>
+    <string name="Inform">Інформатик</string>
+    <string name="Choose_lesson">Обери, який з предметів тобі найцікавіший?</string>
+    <string name="ButtonNext"></string>
+    <string-array name="data">
+        <item>Розробка мобільних додатків</item>
+        <item>Економіка ПЗ</item>
+        <item>Автоматизація тестування</item>
+        <item>Розробка на .NET</item>
+        <item>Системна інтеграція та програмування</item>
+        <item>ПЗ мультимедійних систем</item>
+    </string-array>
+</resources>
